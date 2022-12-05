@@ -80,7 +80,6 @@ footer{
 
   .main-box:last-child{
     margin-bottom:0;
-    margin-right:40px;
+    margin:0 auto;
   }
 }
-
